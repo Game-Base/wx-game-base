@@ -1,0 +1,10 @@
+{"file":"preloading.png","frames":{
+"preloading_anniud_png":{"x":329,"y":0,"w":156,"h":67,"offX":0,"offY":1,"sourceW":156,"sourceH":70},
+"preloading_anniud_down_png":{"x":318,"y":171,"w":156,"h":67,"offX":0,"offY":1,"sourceW":156,"sourceH":70},
+"preloading_defaultBody_png":{"x":130,"y":226,"w":42,"h":118,"offX":0,"offY":0,"sourceW":44,"sourceH":120},
+"preloading_loading_png":{"x":329,"y":69,"w":95,"h":90,"offX":0,"offY":0,"sourceW":95,"sourceH":90},
+"preloading_ui_denglu_jindu_png":{"x":0,"y":282,"w":68,"h":25,"offX":0,"offY":0,"sourceW":68,"sourceH":25},
+"preloading_ui_denglu_yun_png":{"x":426,"y":69,"w":75,"h":89,"offX":0,"offY":0,"sourceW":75,"sourceH":89},
+"preloading_ui_jindu_di_png":{"x":0,"y":226,"w":128,"h":54,"offX":0,"offY":0,"sourceW":128,"sourceH":54},
+"preloading_ui_ty_diaoxiantishi_png":{"x":0,"y":0,"w":327,"h":169,"offX":0,"offY":0,"sourceW":327,"sourceH":169},
+"preloading_ui_ty_tishikuang_png":{"x":0,"y":171,"w":316,"h":53,"offX":0,"offY":0,"sourceW":316,"sourceH":53}}}

@@ -1,0 +1,31 @@
+{
+	"groups": [
+		{
+			"keys": "configbase_bin,preloading_json",
+			"name": "loginPre"
+		},
+		{
+			"keys": "basePanel_json",
+			"name": "login"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/configbase.bin",
+			"type": "bin",
+			"name": "configbase_bin"
+		},
+		{
+			"url": "sheet/preloading.json",
+			"type": "sheet",
+			"name": "preloading_json",
+			"subkeys": "preloading_anniud_down_png,preloading_anniud_png,preloading_defaultBody_png,preloading_loading_png,preloading_ui_denglu_jindu_png,preloading_ui_denglu_yun_png,preloading_ui_jindu_di_png,preloading_ui_ty_diaoxiantishi_png,preloading_ui_ty_tishikuang_png"
+		},
+		{
+			"url": "sheet/basePanel.json",
+			"type": "sheet",
+			"name": "basePanel_json",
+			"subkeys": "common_biaotitou,common_dadishang,common_dadixia,common_dikuang,common_dikuang2,common_dikuang3,common_fanhui,common_guanbi,common_title_bg"
+		}
+	]
+}
